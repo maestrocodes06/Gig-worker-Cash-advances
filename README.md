@@ -1,4 +1,4 @@
-# GigWorker Cash Advances DApp
+# Gig Worker Cash Advances App
 
 ## Project Title
 **GigWorker Cash Advances** - Instant Pay Against Confirmed Future Work
