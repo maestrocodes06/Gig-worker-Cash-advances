@@ -122,3 +122,7 @@ npx hardhat run scripts/deploy.js --network goerli
 ---
 
 *Built with ❤️ for the future of work*
+
+
+Contract Details: 0xE2F0C386acA1A12Bf6c0B629007148104ba62d58
+<img width="1910" height="927" alt="image" src="https://github.com/user-attachments/assets/f63885c8-ea42-4e7b-8d28-c95722e35e5b" />
